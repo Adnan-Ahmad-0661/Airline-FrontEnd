@@ -9,7 +9,7 @@ import Payment from "./pages/Payment.jsx";
 import Confirmation from "./pages/Confirmation.jsx";
 import MyBookings from "./pages/MyBookings.jsx";
 import ViewTicket from "./pages/ViewTicket.jsx";
-import CreateUser from "./pages/CreateUser.jsx";
+import CreateUser from "./pages/createUser.jsx";
 import AdminDashboard from "./pages/AdminDashboard.jsx";
 import AdminFlights from "./pages/AdminFlights.jsx";
 import ProtectedRoute from "./components/ProtectedRoute.jsx";
