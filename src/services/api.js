@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:8080";
+const BASE_URL = "https://airline-reservation-n7d4.onrender.com";
 
 // Main API instance
 const API = axios.create({
